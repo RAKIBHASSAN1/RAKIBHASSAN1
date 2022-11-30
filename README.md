@@ -1,11 +1,11 @@
 ![logo](https://github.com/RAKIBHASSAN1/RAKIBHASSAN1/blob/main/RAKIBA.jpg)
 
-<h1 align="center">Hi 👋, I'm Mehedi Hasan John</h1>
-<h3 align="center">A passionate laravel developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Rakib Hassan</h1>
+<h3 align="center">A passionate Programming, PHP developer, SEO Marketing from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmhjohn&label=Profile%20views&color=0e75b6&style=flat" alt="engrmhjohn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RAKIBHASSAN1&label=Profile%20views&color=0e75b6&style=flat" alt="Rakib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engrmhjohn" alt="engrmhjohn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RAKIBHASSAN1" alt="Rakib" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel Framework**
 
