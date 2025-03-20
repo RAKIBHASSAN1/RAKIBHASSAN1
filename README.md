@@ -1,4 +1,4 @@
-![logo](https://github.com/RAKIBHASSAN1/RAKIBHASSAN1/blob/main/RAKIBA.jpg)
+![logo](https://github.com/RAKIBHASSAN1/RAKIBHASSAN1/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Rakib Hassan</h1>
 <h3 align="center">A passionate Programming, PHP developer, SEO Marketing from Bangladesh</h3>
