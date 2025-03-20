@@ -9,15 +9,14 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [https://www.rakibhassan.xyz/](https://www.rakibhassan.xyz/)
-
-- 📝 I regularly write articles on [https://blog.mhjohn.com/](https://blog.mhjohn.com/)
+- 👨‍💻 All of my projects are available.
+- 📝 I regularly write articles on.
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Git, Php, Laravel, Pogramming , Digital Marketing**
 
 - 📫 How to reach me **rakibhassan9t7@gmail.com**
 
-- 📄 Know about my experiences [https://www.rakibhassan.xyz/](https://www.rakibhassan.xyz/)
+- 📄 Know about my experiences.
 
 - ⚡ Fun fact **I think I am funny =‘•..•’= **
 
